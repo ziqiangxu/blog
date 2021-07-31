@@ -1,4 +1,6 @@
 #!/bin/sh
+BLOG_PATH=`dirname $0`
+cd $BLOG_PATH
 git pull
 rm docs/* -rf
 cd ../ziqiangxu.github.io/
