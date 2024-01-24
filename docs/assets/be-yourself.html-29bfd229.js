@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d82a19e0","path":"/personal-diary/be-yourself.html","title":"做自己","lang":"zh-CN","frontmatter":{"title":"做自己","date":"2021-05-21T00:00:00.000Z"},"headers":[{"level":2,"title":"巴拉巴拉","slug":"巴拉巴拉","link":"#巴拉巴拉","children":[]}],"git":{"updatedTime":1629041842000},"filePathRelative":"personal-diary/be-yourself.md"}');export{e as data};

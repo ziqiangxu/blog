@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7d54d9d8","path":"/Qt/Get-the-address-of-signal-sender-in-Qt.html","title":"Qt 获取信号发送者的地址","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1595018101000},"filePathRelative":"Qt/Get-the-address-of-signal-sender-in-Qt.md"}');export{t as data};

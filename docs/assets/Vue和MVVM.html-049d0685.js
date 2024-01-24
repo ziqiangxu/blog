@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-078bbfc2","path":"/ECMAScript/Vue%E5%92%8CMVVM.html","title":"Vue 与 MVVM","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"M 、 V 、 VM 的含义","slug":"m-、-v-、-vm-的含义","link":"#m-、-v-、-vm-的含义","children":[]}],"git":{"updatedTime":1595018101000},"filePathRelative":"ECMAScript/Vue和MVVM.md"}');export{e as data};

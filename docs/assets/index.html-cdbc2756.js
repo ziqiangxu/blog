@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-125f1919","path":"/ECMAScript/","title":"ECMAScript","lang":"zh-CN","frontmatter":{"editLink":false,"sidebar":false},"headers":[],"git":{"updatedTime":1627719338000},"filePathRelative":"ECMAScript/README.md"}');export{t as data};

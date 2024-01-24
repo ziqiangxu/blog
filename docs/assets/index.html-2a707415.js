@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2d0a3cb3","path":"/Qt/","title":"Qt","lang":"zh-CN","frontmatter":{"editLink":false,"sidebar":false},"headers":[],"git":{"updatedTime":1627719338000},"filePathRelative":"Qt/README.md"}');export{t as data};

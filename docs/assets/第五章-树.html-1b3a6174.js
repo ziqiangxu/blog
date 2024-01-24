@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4a71a0fe","path":"/data-structure/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E6%A0%91.html","title":"树","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1627719476000},"filePathRelative":"data-structure/第五章-树.md"}');export{t as data};

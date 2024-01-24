@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-46169c1a","path":"/Python/Write-cmd-tools-by-argparse.html","title":"用 argparse 编写命令行工具","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1595018101000},"filePathRelative":"Python/Write-cmd-tools-by-argparse.md"}');export{t as data};

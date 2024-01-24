@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-6d48d278","path":"/personal-diary/%E5%9D%9A%E5%AE%9A%E5%9C%B0%E8%B5%B0%E4%B8%8B%E5%8E%BB.html","title":"希望可以写一辈子程序","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1595018552000},"filePathRelative":"personal-diary/坚定地走下去.md"}');export{a as data};

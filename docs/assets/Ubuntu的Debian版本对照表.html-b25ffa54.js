@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-62b28ae3","path":"/accumulation/Ubuntu%E7%9A%84Debian%E7%89%88%E6%9C%AC%E5%AF%B9%E7%85%A7%E8%A1%A8.html","title":"Ubuntu 的 Debian 版本对照表","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1595018101000},"filePathRelative":"accumulation/Ubuntu的Debian版本对照表.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8845e9f4","path":"/data-structure/","title":"数据结构","lang":"zh-CN","frontmatter":{"editLink":false,"sidebar":false},"headers":[],"git":{"updatedTime":1627719338000},"filePathRelative":"data-structure/README.md"}');export{t as data};

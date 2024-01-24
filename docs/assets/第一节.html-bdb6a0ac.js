@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-10344ed8","path":"/test-chapter1/%E7%AC%AC%E4%B8%80%E8%8A%82.html","title":"第一节","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1595018101000},"filePathRelative":"test-chapter1/第一节.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-61e5c802","path":"/personal-diary/%E5%90%8C%E5%AD%A6%E5%88%AB%E8%B7%AA%E5%95%8A.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1621617178000},"filePathRelative":"personal-diary/同学别跪啊.md"}');export{e as data};

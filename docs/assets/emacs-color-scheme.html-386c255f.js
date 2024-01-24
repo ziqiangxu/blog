@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-aaba6d96","path":"/accumulation/emacs-color-scheme.html","title":"emacs 背景和文字颜色配置","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1595061131000},"filePathRelative":"accumulation/emacs-color-scheme.md"}');export{a as data};

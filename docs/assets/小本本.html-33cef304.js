@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-ad473eb8","path":"/personal-diary/%E5%B0%8F%E6%9C%AC%E6%9C%AC.html","title":"以前觉得比较有意思的句子","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1595018552000},"filePathRelative":"personal-diary/小本本.md"}');export{a as data};
