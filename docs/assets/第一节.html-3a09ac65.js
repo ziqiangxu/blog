@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as _,a as e,b as c}from"./app-085ccf92.js";const o={},s=e("h1",{id:"第一节",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#第一节","aria-hidden":"true"},"#"),c(" 第一节")],-1),n=e("p",null,"第一节的正文",-1),r=[s,n];function d(i,l){return a(),_("div",null,r)}const f=t(o,[["render",d],["__file","第一节.html.vue"]]);export{f as default};
