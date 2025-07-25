@@ -1,1 +1,0 @@
-import{_ as t,o as _,c as o,a as e,b as s}from"./app-156f6dde.js";const a={},c=e("p",null,"摘要",-1),n=e("h2",{id:"第一节",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#第一节","aria-hidden":"true"},"#"),s(" 第一节")],-1),r=e("p",null,"第一节的内容",-1),d=[c,n,r];function l(i,h){return _(),o("div",null,d)}const u=t(a,[["render",l],["__file","文章模板.html.vue"]]);export{u as default};
