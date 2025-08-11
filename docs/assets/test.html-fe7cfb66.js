@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as s,a as e,b as c}from"./app-a16bb8ef.js";const o={},r=e("h1",{id:"子目录测试",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#子目录测试","aria-hidden":"true"},"#"),c(" 子目录测试")],-1),n=[r];function _(d,i){return a(),s("div",null,n)}const l=t(o,[["render",_],["__file","test.html.vue"]]);export{l as default};
