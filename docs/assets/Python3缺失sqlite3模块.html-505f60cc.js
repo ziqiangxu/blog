@@ -1,0 +1,5 @@
+import{_ as e,o as n,c as s,e as a}from"./app-80dbc087.js";const t={},c=a(`<h1 id="python3-缺失-sqllite3-模块解决办法" tabindex="-1"><a class="header-anchor" href="#python3-缺失-sqllite3-模块解决办法" aria-hidden="true">#</a> <code>Python3</code> 缺失 <code>sqllite3</code> 模块解决办法</h1><p>在编译安装之前安装 <code>sqlite-devel</code> 和 <code>zlib-devel</code> 下载 <code>Python3</code> 的源码，参考其README文件，开始编译安装</p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>./configure
+<span class="token function">make</span>
+<span class="token function">make</span> <span class="token builtin class-name">test</span>    <span class="token comment">#安装前测试，可以看到还缺哪些</span>
+<span class="token function">make</span> <span class="token function">install</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3),o=[c];function i(l,d){return n(),s("div",null,o)}const p=e(t,[["render",i],["__file","Python3缺失sqlite3模块.html.vue"]]);export{p as default};
