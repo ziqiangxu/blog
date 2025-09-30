@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as a,a as e,b as _}from"./app-8908a85a.js";const o={},s=e("h1",{id:"_2021-ecug",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_2021-ecug","aria-hidden":"true"},"#"),_(" 2021-ECUG")],-1),n=e("p",null,"本来",-1),r=[s,n];function d(i,l){return c(),a("div",null,r)}const u=t(o,[["render",d],["__file","2021-ECUG.html.vue"]]);export{u as default};
